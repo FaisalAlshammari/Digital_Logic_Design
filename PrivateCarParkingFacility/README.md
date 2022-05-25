@@ -19,7 +19,8 @@ when the time is up the car gets a fine "penalty" for parking for a long time.
 - **NumberOfEmptyParkSpaces:**
 ![](Images/numOfParkedCars.png)
 
-Codes used are in [src](https://github.com/FaisalAlshammari/Digital_Logic_Design/tree/main/PrivateCarParkingFacility/src)
+
+*All Codes are in [src](https://github.com/FaisalAlshammari/Digital_Logic_Design/tree/main/PrivateCarParkingFacility/src)*
 
 
 
